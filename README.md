@@ -29,6 +29,13 @@ This project explores NHS Referral-to-Treatment (RTT) wait times using **real-wo
 **Why it matters:**  
 The analysis uncovers critical bottlenecks in NHS care delivery, supporting better decision-making for resource allocation and backlog reduction.
 
+#### Visual Highlight: Top 15 Providers by Average Wait Time
+
+The chart below shows NHS providers with the highest average wait times in February 2025, revealing critical backlog hotspots.
+    
+![NHS Wait Times Chart](top_15_waits_providers.png)
+
+
 ## Limitations
 
 - Data reflects only a single month (February 2025); seasonal or long-term trends are not captured
